@@ -26,6 +26,8 @@ public class Feb9Lab {
         int n = arr.length;
         int midIndex = n / 2;
         int pivotElement = arr[midIndex];
+        int i = 0;
+        int j = n - 2;
 
         // FILL IN CODE
     }
